@@ -12,6 +12,7 @@ var platform = {
 var arch = {
 	'arm': 'arm',
 	'x86': '386',
+	'ia32': '386',
 	'x64': 'amd64'
 }[os.arch()];
 
