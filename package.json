@@ -1,7 +1,7 @@
 {
   "name": "gost",
-  "version": "1.0.3",
-  "gostVersion": "2.3-rc2",
+  "version": "1.0.4",
+  "gostVersion": "2.3",
   "description": "install gost using npm",
   "bin": {
     "gost": "gost.exe"
